@@ -5,7 +5,7 @@ title: Alexandros Alampounti
 # Alexandros Alampounti
 _Data Visualisation & Machine Learning_
 
-Welcome! I'm a data scientist with a background in physics and neuroscience, specialising in turning complex data into clear, actionable insights.  
+I have a background in physics and neuroscience, specialising in turning complex data into clear, actionable insights.  
 This page showcases selected data visualisations and dashboards.
 
 ---
@@ -27,4 +27,3 @@ This page showcases selected data visualisations and dashboards.
 
 ---
 
-📧 **Contact:** [c.a.alampounti@protonmail.com](mailto:c.a.alampounti@protonmail.com)
